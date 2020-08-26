@@ -1,0 +1,18 @@
+body{
+    background: coral;
+}
+td{
+    width: 100px;
+    height: 100px;
+    background: whitesmoke;
+    font-size: 40px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+table{
+    margin: 20px auto;
+    border-radius: 10px;
+    border: 2px solid whitesmoke;
+    border-spacing: 5px;
+}
